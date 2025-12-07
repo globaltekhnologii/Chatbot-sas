@@ -17,7 +17,7 @@ Sistema Multi-inquilino (SaaS) de Chatbot con IA para restaurantes pequeños.
 
 Abre en tu navegador:
 ```
-http://localhost/Restaurante/ChatbotSaaS/setup_saas_db.php
+http://localhost/Restaurante/ChatbotSaaS/admin/login.php
 ```
 
 Esto creará:
